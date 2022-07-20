@@ -14,3 +14,5 @@ You may also see any lint errors in the console.
 
 There is 4 .php file which u put in C:\xampp\htdocs folder and change the path in other files.
 According to your system
+
+create a database with name spotify and import .sql file.
